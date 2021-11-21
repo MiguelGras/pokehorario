@@ -11,7 +11,7 @@ function saludo() {
         h1.innerHTML = HTMLString;
         document.body.style.backgroundColor = "#3E3730";
 
-    } else {
+    } else if{
 
         const h1 = document.getElementById('h1');
         let HTMLString = '<h1>¡Buenos Dias!</h1>'
