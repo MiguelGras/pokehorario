@@ -15,7 +15,7 @@ div.scrollmenu {
     padding-right: 3.2vh;
 }
 
-.scrollmenu::-webkit-scrollbar {
+::-webkit-scrollbar {
     display: none;
 }
 
